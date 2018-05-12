@@ -1,0 +1,31 @@
+_repo: Turner_40878
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40878-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Monkhouse, W. Cosmo (William Cosmo)
+    aliases:
+    - Monkhouse, Cosmo
+    - Monkhouse, William Cosmo
+    birthdate: 1840
+    deathdate: 1901
+    gutenberg_agent_id: '40869'
+    url: http://www.gutenberg.org/2009/agents/40869
+    wikipedia: http://en.wikipedia.org/wiki/William_Cosmo_Monkhouse
+description: ''
+gutenberg_issued: '2012-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40878'
+  lccn: '10020874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Turner, J. M. W. (Joseph Mallord William), 1775-1851'
+title: Turner
+url: http://www.gutenberg.org/ebooks/40878
